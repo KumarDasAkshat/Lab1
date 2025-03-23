@@ -1,1 +1,1 @@
-print("Automating deployment with CI/CD!")
+print("Updated message for CI/CD testing!")
